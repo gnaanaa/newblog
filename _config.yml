@@ -1,0 +1,11 @@
+# basic options
+title: newblog
+author: gnaanaa
+email: gnaanaa@gmail.com
+description: wonderful blog
+twitter_username: gnaanaa
+github_username: gnaanaa
+
+# Build settings
+markdown: kramdown
+theme: minima
